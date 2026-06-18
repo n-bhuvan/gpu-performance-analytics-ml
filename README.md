@@ -257,6 +257,22 @@ Predicted Performance Category: Low
 
 ---
 
+## Results
+
+### Regression Model Comparison
+
+![Regression Results](reports/regression_comparison.png)
+
+### Classification Model Comparison
+
+![Classification Results](reports/classification_comparison.png)
+
+### Feature Importance
+
+![Feature Importance](reports/feature_importance.png)
+
+---
+
 ## Future Improvements
 
 - Streamlit Web Application
